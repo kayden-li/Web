@@ -1,0 +1,23 @@
+@charset "UTF-8";
+#map{
+	clear:both;
+}
+#user{
+	float:left;
+	height:300px;
+	width:120px;
+	margin: -50px 0 0 -1100px;
+}
+#user div{
+	height:25%;
+	width:100%;
+	padding-top:20%;
+	background:#FFDEAD;
+	font-family:华文新魏;
+	font-size:30px;
+	color: #CDB7B5;
+	border:1px dashed white;
+	border-radius: .8em;
+	cursor:default;
+	position: relative;
+}
